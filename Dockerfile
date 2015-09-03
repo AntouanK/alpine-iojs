@@ -1,4 +1,4 @@
-FROM  mhart/alpine-iojs-base
+FROM  mhart/alpine-iojs
 
 RUN npm i -g npm@beta
 
